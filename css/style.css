@@ -9,10 +9,7 @@ body {
     text-align: center; 
     border-radius: 5px; 
     font-family: 'Pacifico', cursive;
-}
-.header h1 { 
-    margin: 0; 
-    color: #a29595; 
+    color : #201515;
 }
 .table{
     width: 50%; 
@@ -44,4 +41,27 @@ body {
     color: #ae0606; 
     font-size: 18px;
     font-family: "Times New Roman", Times, serif;
+}
+.subheader{
+    text-align: center; 
+    color: #912424; 
+    font-family: 'Pacifico', cursive;
+}
+.submit {
+    background-color: #912424; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    margin-top: 10px;
+}
+.cancel {
+    background-color: #912424; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    margin-left: 10px;
 }
